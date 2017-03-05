@@ -1,0 +1,8 @@
+checkpoint
+image_classification.*
+preprocess_*
+
+cifar-10*
+
+.ipynb_checkpoints/
+__pycache__/
